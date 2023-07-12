@@ -1,6 +1,6 @@
 package utilities;
 
-public class Reusable_Methods {
+public class ReusableMethods {
     public static void bekle(int saniye){
         try {
             Thread.sleep(saniye*1000);
